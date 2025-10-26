@@ -7,7 +7,7 @@ if exists('syntax on')
     syntax reset
 endif
 
-let g:colors_name='catppuccin_mocha'
+let g:colors_name='gruvcat'
 set t_Co=256
 
 let s:rosewater = "#ea6962"
